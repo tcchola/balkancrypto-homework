@@ -1,1 +1,1 @@
-# balkancrypto-homework
+# Basic HTML/CSS website for school
